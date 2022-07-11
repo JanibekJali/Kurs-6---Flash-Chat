@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650854155350",
+    "project_id": "flash-chat-kurs-6",
+    "storage_bucket": "flash-chat-kurs-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650854155350:android:67ae315e12f07cb8c0a7f7",
+        "android_client_info": {
+          "package_name": "kg.baarlashuu.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650854155350-vif2cgspkfg2j7q339jo3e5kurn6q63f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.baarlashuu.chat",
+            "certificate_hash": "d44ffedca0e11d9e4cd49a2209a58a93dcbfbdd4"
+          }
+        },
+        {
+          "client_id": "650854155350-6c22jafq0befgqukn60pa53qad7k5rh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAUpbLd7UviZt_CJbnotIW32ew-8E25wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650854155350-6c22jafq0befgqukn60pa53qad7k5rh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
