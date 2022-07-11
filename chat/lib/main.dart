@@ -18,9 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      theme: ThemeData.dark(
-          // primarySwatch: Colors.blue,
-          ),
+      theme: ThemeData.dark(),
       initialRoute: WelcomeScreen.route,
       routes: {
         WelcomeScreen.route: (context) => WelcomeScreen(),
@@ -30,4 +28,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
